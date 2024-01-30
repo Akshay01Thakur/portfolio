@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Akshay Thakur </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="assets/img/Akshay_Thakur_product (2).pdf">Resume</a> |
+  <a href="www.linkedin.com/in/akshay-thakur-59249193">LinkedIn</a> |
+  <a href="https://github.com/Akshay01Thakur">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
